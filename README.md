@@ -1,0 +1,1 @@
+Groups images by category
